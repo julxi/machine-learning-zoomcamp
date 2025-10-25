@@ -28,3 +28,8 @@ __pycache__/
 **samples/
 
 /venv
+.venv/
+
+# homework specific
+course_lead_scoring.csv
+cohorts/2025/05-deployment/pipeline_v1.bin
