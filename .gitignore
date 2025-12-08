@@ -33,3 +33,5 @@ __pycache__/
 # homework specific
 course_lead_scoring.csv
 pipeline_v1.bin
+hair_classifier_v1.onnx
+hair_classifier_v1.onnx.data
